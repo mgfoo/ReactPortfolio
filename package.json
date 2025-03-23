@@ -3,6 +3,8 @@
 	"version": "1.1.0",
 	"description": "Personal portfolio to showcase my projects and skills.",
 	"url": "https://mgfoo.github.io/MichaelaFooWebsite/",
+	"homepage": "https://mgfoo.github.io/MichaelaFooWebsite",
+
 	"author": {
 		"name": "Michaela Foo",
 		"email": "michaelagfoo@gmail.com",
